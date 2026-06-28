@@ -1,3 +1,4 @@
 .env
 venv/
 libs/__pycache__/
+.devcontainer/
