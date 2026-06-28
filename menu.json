@@ -1,12 +1,12 @@
 {
-  "Chocolate Truffle": 25,
-  "Vanilla": 20,
-  "Red Velvet": 30,
-  "Black Forest": 28,
-  "Strawberry": 22,
-  "Butterscotch": 24,
-  "Pineapple": 18,
-  "Coffee Mocha": 27,
-  "Blueberry Cheesecake": 35,
-  "Carrot Cake": 37
+  "Chocolate Truffle": 100,
+  "Vanilla": 80,
+  "Red Velvet": 250,
+  "Black Forest": 70,
+  "Strawberry": 100,
+  "Butterscotch": 110,
+  "Pineapple": 90,
+  "Coffee Mocha": 140,
+  "Blueberry Cheesecake": 200,
+  "Carrot Cake": 160
 }
